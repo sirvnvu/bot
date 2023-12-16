@@ -61,7 +61,7 @@ decrypted_textid = decrypt(cipher_textids, key, iv)
 #####################################################################
 
 # Thông tin bot
-idbot = '-4022148407'
+idbot = '-4051976311'
 token = '6709181218:AAEIM06--iUnYb1q9UBA2TKWoELPl6ZFFDY'
 bot = Bot(token=token)
 
