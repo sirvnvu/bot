@@ -555,7 +555,7 @@ async def main(TOKEN, ID):
 
 
     
-    # check_chrome_running()
+    check_chrome_running()
 
 
 
